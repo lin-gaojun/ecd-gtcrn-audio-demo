@@ -2,7 +2,8 @@
 
 [Open the audio demo](https://lin-gaojun.github.io/ecd-gtcrn-audio-demo/)
 
-Six samples across three scenarios: random rooms, fixed +x noise and fixed +y noise.
+8 samples across three scenarios: 4 random-room samples, 2 fixed +x noise samples and 2 fixed +y noise samples.
+The random-room examples include two small-separation cases below 15°.
 Each sample includes Clean, Noisy, SC-GTCRN, DC-GTCRN, Original D-SKD (β = 1.0), D-SKD (β = 0.25) and ECD-GTCRN.
 
 - A/B playback of the same excerpt, with Noisy → DC → ECD, looping, reversed order and optional level matching.
